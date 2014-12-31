@@ -8,7 +8,7 @@
     <import addon="script.module.simple.downloader.beta" version="0.9.4" />
   </requires>
   <extension library="default.py" point="xbmc.python.pluginsource">
-        <provides>video</provides>
+        <provides>audio video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="af">YouTube video byvoegsel</summary>
